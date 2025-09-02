@@ -9,7 +9,7 @@
   - [More About jQuery](#a-note-on-jquery)
 - [Lesson Steps](#lesson-steps)
   - [Work Flow](#work-flow-how-to-navigate-through-the-lesson-steps)
-  - [TODO 0: Preview Your Site with Live Server](#todo-0-preview-your-site-with-live-server)
+  - [TODO 0: Preview Your Site with ](#todo-0-preview-your-site-with-live-server)
   - [TODO 1: Experiment with Moving the Box](#todo-1-experiment-with-moving-the-box)
   - [TODO 2: Set Up Variables to Move the Box](#todo-2-set-up-positionx-to-move-the-box)
   - [TODO 3: Reset Box When Clicked](#todo-3-reset-positionx-and-display-initial-text-on-box-click)
@@ -710,4 +710,4 @@ We've compiled a list of optional **bonus challenges** for you to take this proj
 <hr>
 <br>
 
-### 🎉🎉🎉 Your bouncing box game is live on your site and you can share it with others!  🎉🎉🎉
+### 🎉🎉🎉 Your bouncing box game is live on your site and you can share it with others! 🎉🎉🎉
